@@ -1,4 +1,4 @@
-package com.arkisoftware.tutors;
+package com.arkisoftware.tutofast.tutors;
 
 import org.springframework.cloud.client.discovery.DiscoveryClient;
 import org.springframework.beans.factory.annotation.Autowired;
